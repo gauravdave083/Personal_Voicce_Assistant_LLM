@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI VOICE ASSISTANT USING LLM
 
 ## Overview
