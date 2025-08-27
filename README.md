@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# AI Voice Assistant Frontend
+# AI VOICE ASSISTANT USING LLM
 
 ## Overview
 This project is the frontend for the AI Voice Assistant, built using React and Tailwind CSS. It provides a user interface for interacting with the voice assistant, allowing users to control media playback and access various features through voice commands.
